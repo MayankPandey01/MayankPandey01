@@ -6,7 +6,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://github.com/MayankPandey01/MayankPandey01/blob/main/Hi.gif" width="30px">, I'm Mayank Pandey <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="40"/></h1>
 
-<h3 align="center">Programmer | CyberSecurity Enthusiast | Reverse Engineering Lover</h3>
+<h3 align="center">Programmer🚀 | CyberSecurity Enthusiast💻 | Reverse Engineering Lover💙</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mayank-pandey-849262209/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mayank" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mesmerizing.mayank.7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mayank" height="30" width="40" /></a>
@@ -40,7 +40,7 @@
 👯 I’m looking to collaborate with any **Open - Source contribution**<br>
 🔭 I use to write code on [Hackerrank](https://www.hackerrank.com/Mayank__01) <br>
 💬 Ask me about anything, I am happy to help <br>
-⚡ Fun fact : *Coffee==Better Code*<br><br><br><br>
+⚡ Fun fact : **Coffee==Better Code**<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
