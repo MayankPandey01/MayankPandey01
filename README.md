@@ -4,7 +4,7 @@
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" height="300"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MayankPandey01/MayankPandey01/main/Hi.gif" width="30px">, I'm Mayank Pandey</h1><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MayankPandey01/MayankPandey01/main/Hi.gif" width="30px">, I'm Mayank Pandey <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/></h1>
 
 <h3 align="center">Programmer | CyberSecurity Enthusiast | Reverse Engineering Lover</h3>
 <p align="center">
