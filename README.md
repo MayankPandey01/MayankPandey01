@@ -31,7 +31,7 @@
 
 <img align="right" width=270px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-
+<hr>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
@@ -85,9 +85,6 @@
 
  <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MayankPandey01) -->
 <hr>
-
-<hr>
- -->
 
 
 
