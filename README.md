@@ -120,6 +120,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
+![Profile Inspired From] (https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+
 <!--
 **MayankPandey01/MayankPandey01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
