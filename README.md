@@ -6,7 +6,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://github.com/MayankPandey01/MayankPandey01/blob/main/Hi.gif" width="30px">, I'm Mayank Pandey <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="40"/></h1>
 
-<h3 align="center">Programmer🚀 | CyberSecurity Enthusiast💻 | Reverse Engineering Lover💙</h3>
+<h3 align="center">Programmer🚀 | Cyber Security Enthusiast💻 | Reverse Engineering Lover💙</h3>
 <p align="center">
 <a href="https://www.twitter.com/Mayank_pandey01" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="Mayank" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Mayank__01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Mayank" height="30" width="40" /></a>
@@ -120,7 +120,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-[Profile Inspired From](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>[Profile Inspired From](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 
 <!--
 **MayankPandey01/MayankPandey01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
