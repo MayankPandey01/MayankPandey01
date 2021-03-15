@@ -8,10 +8,8 @@
 
 <h3 align="center">Programmer🚀 | CyberSecurity Enthusiast💻 | Reverse Engineering Lover💙</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/mayank-pandey-849262209/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mayank" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mesmerizing.mayank.7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mayank" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Mayank__01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Mayank" height="30" width="40" /></a>
 <a href="https://www.twitter.com/Mayank_pandey01" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="Mayank" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Mayank__01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Mayank" height="30" width="40" /></a>
  <a href = "mailto: mayankraj956@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
@@ -85,9 +83,9 @@
 
  <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MayankPandey01) -->
 <hr>
-
+<!--
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
-
+<!--
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -116,6 +114,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <hr>
+ -->
 
 
 
