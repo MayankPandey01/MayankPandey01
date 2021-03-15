@@ -36,7 +36,7 @@
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 🌱 I’m currently learning **Reverse Engineeering** <br>
-👨🏽‍💻 Currently working on something cool :wink: <br>
+👨🏽‍💻 Currently working on something cool <br>
 🤖 Making **Tools for Automation** in Cyber Security and Bug Bounty <br>
 👯 I’m looking to collaborate with any **Open - Source contribution**<br>
 🔭 I use to write code on [Hackerrank](https://www.hackerrank.com/Mayank__01) <br>
