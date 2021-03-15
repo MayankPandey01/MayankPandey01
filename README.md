@@ -75,9 +75,10 @@
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayankPandey01&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MayankPandey01" /></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayankPandey01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MayankPandey01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankPandey01&show_icons=true&locale=en&theme=algolia" alt="MayankPandey01" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankPandey01&show_icons=true&locale=en&theme=tokyonight" alt="MayankPandey01" /></p>
 
 <hr>
 
@@ -111,15 +112,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <hr>
-[![trophy](https://github-profile-trophy.vercel.app/?username=MayankPandey01)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankPandey01)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Mogaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MayankPandey01)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MayankPandey01&show_icons=true&count_private=true&theme=tokyonight)
-
-![GitHub metrics](https://metrics.lecoq.io/MayankPandey01)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MayankPandey01&show_icons=true&count_private=true&theme=tokyonight)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MayankPandey01)
 
