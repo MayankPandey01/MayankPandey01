@@ -41,7 +41,7 @@
 👯 I’m looking to collaborate with any **Open - Source contribution**<br>
 🔭 I use to write code on [Hackerrank](https://www.hackerrank.com/Mayank__01) <br>
 💬 Ask me about anything, I am happy to help <br>
-⚡ Fun fact : **Coffee==Better Code**<br><br><br><br>
+⚡ Fun fact : **Learning From the Feynman Technique**<br><br><br><br>
 
  
 
