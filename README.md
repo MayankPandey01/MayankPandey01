@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <!--
 **MayankPandey01/MayankPandey01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
