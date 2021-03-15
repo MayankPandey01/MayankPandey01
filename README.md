@@ -30,7 +30,6 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MayankPandey01&label=Profile%20views&color=0e75b6&style=flat" alt="Mayank" /> </p>
 
 <img align="right" width=270px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
@@ -45,7 +44,7 @@
 ⚡ Fun fact : **Coffee==Better Code**<br><br><br><br>
  
 
-<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30px">&nbsp;***Languages & Tools I Know...***
+<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
@@ -79,6 +78,9 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayankPandey01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MayankPandey01" /></p> use width="410" in stats after enabling this-->
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankPandey01&show_icons=true&locale=en&theme=tokyonight" alt="MayankPandey01" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MayankPandey01&label=Profile%20views&color=0e75b6&style=flat" alt="Mayank" /> </p>
+
 
  <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MayankPandey01) -->
 <hr>
