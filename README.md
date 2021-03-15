@@ -78,7 +78,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayankPandey01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MayankPandey01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankPandey01&show_icons=true&locale=en&theme=tokyonight" alt="MayankPandey01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankPandey01&show_icons=true&locale=en&theme=tokyonight" alt="MayankPandey01" width="410"/></p>
 
 <hr>
 
