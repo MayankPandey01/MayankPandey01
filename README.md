@@ -36,14 +36,11 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write code on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+🌱 I’m currently learning **Reverse Engineeering** <br>
+👯 I’m looking to collaborate with any **Open - Source contribution**<br>
+🔭 I use to write code on [Hackerrank](https://www.hackerrank.com/Mayank__01) <br>
+💬 Ask me about anything, I am happy to help <br>
+⚡ Fun fact : *Coffee==Better Code*<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
@@ -80,7 +77,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankPandey01&show_icons=true&locale=en&theme=tokyonight" alt="MayankPandey01" /></p>
 
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MayankPandey01)
+ <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MayankPandey01) -->
 <hr>
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
