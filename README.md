@@ -80,7 +80,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankPandey01&show_icons=true&locale=en&theme=tokyonight" alt="MayankPandey01" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MayankPandey01&label=Profile%20views&color=0e75b6&style=flat" alt="Mayank" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MayankPandey01&label=Profile%20views&color=0e75b6&style=flat" alt="Mayank" <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> /> </p>
 
 
  <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MayankPandey01) -->
