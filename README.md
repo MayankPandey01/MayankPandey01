@@ -52,11 +52,12 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://github.com/MayankPandey01/MayankPandey01/blob/main/images.jpg"> </code>
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"> </code>
+  
   
   
   <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
