@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://www.twitter.com/Mayank_pandey01" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="Mayank" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Mayank__01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Mayank" height="30" width="40" /></a>
- <a href = "mailto: mayankraj956@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+ <a href = "mailto: mayankraj956@gmail.com"><img align="center" src="https://camo.githubusercontent.com/9f8403b6cb58d427fe1fcaafdf1cf00299d0bf2ef53b14a5e32e66ccf657876d/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d676d61696c2e737667" height="30" width="40" /></a>
 </p>
 </p>
 
